@@ -1,0 +1,3 @@
+*)--api sy aapky pass controller main sab function khud ban kr aa jate hain ex([store,delete,update])
+php artisan make:model Post -m --api
+
